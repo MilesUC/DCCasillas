@@ -1,0 +1,15 @@
+{
+    "HOST": "localhost",
+    "PORT": 47365,
+    "RUTA_LOGO": ["frontend", "Sprites", "Logos", "logo.png"],
+    "RUTA_VENTANA_LOGIN": ["frontend", "assets", "ventana_login.ui"],
+    "RUTA_VENTANA_ESPERA": ["frontend", "assets", "ventana_espera.ui"],
+    "RUTA_VENTANA_JUEGO": ["frontend", "assets", "ventana_juego.ui"],
+    "RUTA_VENTANA_POSTJUEGO": ["frontend", "assets", "ventana_postjuego.ui"],
+    "RUTA_AZUL": ["frontend", "Sprites", "Fichas", "Simples", "ficha-azul.png"],
+    "RUTA_AMARILLA": ["frontend", "Sprites", "Fichas", "Simples", "ficha-amarilla.png"],
+    "RUTA_VERDE": ["frontend", "Sprites", "Fichas", "Simples", "ficha-verde.png"],
+    "RUTA_ROJA": ["frontend", "Sprites", "Fichas", "Simples", "ficha-roja.png"],
+    "MIN_JUGADORES": 2,
+    "MAX_JUGADORES": 4
+}
